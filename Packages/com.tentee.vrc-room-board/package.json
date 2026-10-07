@@ -1,0 +1,23 @@
+{
+  "name": "com.tentee.vrc-room-board",
+  "displayName": "Room Board",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "author": {
+    "name": "TenteEEEE",
+    "url": "https://github.com/TenteEEEE"
+  },
+  "description": "Room occupancy boards for VRChat worlds: shows who is in each area on any number of signs, with no network sync.",
+  "license": "MIT",
+  "keywords": [
+    "vrchat",
+    "worlds",
+    "udonsharp",
+    "room",
+    "presence",
+    "occupancy"
+  ],
+  "vpmDependencies": {
+    "com.vrchat.worlds": "^3.8.0"
+  }
+}
